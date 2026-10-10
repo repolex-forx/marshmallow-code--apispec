@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/apispec/commit/0b66a26b865772f5f461f97f99c5957790a3a8d7",
       "git:hexsha": "0b66a26b865772f5f461f97f99c5957790a3a8d7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/marshmallow-code/apispec/commit/43c32366d4759c1f6eb7640db3fe61d2602ce417",
